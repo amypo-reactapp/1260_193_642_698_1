@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function Sena() {
   return <div>Hello, World</div>;
 }
 
-export default App;
+export default Sena;
